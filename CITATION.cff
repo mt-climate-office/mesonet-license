@@ -1,0 +1,25 @@
+# Citation metadata for Montana Mesonet data (Citation File Format 1.2.0).
+# GitHub's "Cite this repository" button reads this file.
+cff-version: 1.2.0
+message: >-
+  If you use Montana Mesonet data, please cite them as: Montana Mesonet,
+  Montana Climate Office. A service of the University of Montana.
+  {Year Accessed}. Data accessed from {URL} on {Access Date}.
+  Licensed CC BY 4.0.
+type: dataset
+title: "Montana Mesonet"
+abstract: >-
+  Weather, soil, and station observations from the Montana Mesonet, a network
+  of stations across Montana operated by the Montana Climate Office. A service
+  of the University of Montana.
+authors:
+  - name: "Montana Climate Office, University of Montana"
+license: CC-BY-4.0
+url: "https://climate.umt.edu/mesonet/"
+repository: "https://data2.climate.umt.edu/mesonet/"
+repository-code: "https://github.com/mt-climate-office/mesonet-license"
+keywords:
+  - Montana Mesonet
+  - weather
+  - soil moisture
+  - Montana
